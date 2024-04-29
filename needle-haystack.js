@@ -6,3 +6,5 @@
 var strStr = function(haystack, needle) {
     return haystack.indexOf(needle)
 };
+
+// 51% than most users solutions
