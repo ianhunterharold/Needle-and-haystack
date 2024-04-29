@@ -7,4 +7,4 @@ var strStr = function(haystack, needle) {
     return haystack.indexOf(needle)
 };
 
-// 51% than most users solutions
+// 51% more performant* than most users solutions
